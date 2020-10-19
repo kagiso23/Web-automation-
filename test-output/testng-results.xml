@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42527" started-at="2020-10-18T21:18:34 CAT" finished-at="2020-10-18T21:19:17 CAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42527" started-at="2020-10-18T21:18:34 CAT" finished-at="2020-10-18T21:19:17 CAT">
+      <class name="Testing_Project.Test_SauceWeb">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Testing_Project.Test_SauceWeb@15d0c81b]" name="setup" is-config="true" duration-ms="20930" started-at="2020-10-18T21:18:34 CAT" finished-at="2020-10-18T21:18:55 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Testing_Project.Test_SauceWeb@15d0c81b]" name="login" duration-ms="6638" started-at="2020-10-18T21:18:55 CAT" finished-at="2020-10-18T21:19:02 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyUrl()[pri:1, instance:Testing_Project.Test_SauceWeb@15d0c81b]" name="verifyUrl" duration-ms="21" started-at="2020-10-18T21:19:02 CAT" finished-at="2020-10-18T21:19:02 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method status="PASS" signature="verifyTitle()[pri:2, instance:Testing_Project.Test_SauceWeb@15d0c81b]" name="verifyTitle" duration-ms="7" started-at="2020-10-18T21:19:02 CAT" finished-at="2020-10-18T21:19:02 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="ClickAbout()[pri:3, instance:Testing_Project.Test_SauceWeb@15d0c81b]" name="ClickAbout" duration-ms="12175" started-at="2020-10-18T21:19:02 CAT" finished-at="2020-10-18T21:19:14 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAbout -->
+        <test-method status="PASS" signature="Sortproductsby()[pri:4, instance:Testing_Project.Test_SauceWeb@15d0c81b]" name="Sortproductsby" duration-ms="139" started-at="2020-10-18T21:19:14 CAT" finished-at="2020-10-18T21:19:14 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sortproductsby -->
+        <test-method status="PASS" signature="Cart()[pri:5, instance:Testing_Project.Test_SauceWeb@15d0c81b]" name="Cart" duration-ms="1187" started-at="2020-10-18T21:19:14 CAT" finished-at="2020-10-18T21:19:15 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cart -->
+        <test-method status="PASS" signature="checkout()[pri:6, instance:Testing_Project.Test_SauceWeb@15d0c81b]" name="checkout" duration-ms="1265" started-at="2020-10-18T21:19:15 CAT" finished-at="2020-10-18T21:19:16 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Testing_Project.Test_SauceWeb@15d0c81b]" name="close" is-config="true" duration-ms="98" started-at="2020-10-18T21:19:16 CAT" finished-at="2020-10-18T21:19:17 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testing_Project.Test_SauceWeb -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
