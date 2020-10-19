@@ -4,7 +4,7 @@
 - Testng
 - Maven
 - Eclipse 
-- Java Language 
+- Java Language \n
 *Project settings*
 - Eclipse, Java, Testng and Selnium installed and configured 
 - On the code change the chromedriver path to a path where you have saved your chrome driver 
